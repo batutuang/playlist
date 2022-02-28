@@ -1,15 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581307990510.png" group-title="Local Channel", 1. Ruang Terampil
-rtp://@239.1.1.126:8730
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816511391.png" group-title="Local Channel", 2. Sea Today
 rtp://@239.1.2.68:8384
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309907162.png" group-title="Local Channel", 3. Use Prime
-rtp://@239.1.1.216:9270
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309835005.png" group-title="Local Channel", 4. Use Photo
-rtp://@239.1.1.251:9498
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1600833696268.png" group-title="Local Channel", 5. Indihome Shopping
-rtp://@239.1.2.98:9514
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309571114.png" group-title="Local Channel", 6. TVRI
 rtp://@239.1.1.37:8196
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311645075.png" group-title="Local Channel", 7. Metro TV
