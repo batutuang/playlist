@@ -64,40 +64,8 @@ rtp://@239.1.1.113:8652
 rtp://@239.1.2.92:9490
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1627656040198.jpg" group-title="Local Channel", 812. MNC News
 rtp://@239.1.1.146:7985
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308026084.png" group-title="Local Channel", 900. Ruang Terampil HD
-rtp://@239.1.1.111:8640
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1603816537263.png" group-title="Local Channel", 907. Sea Today HD
-rtp://@239.1.2.70:8396
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581313995745.png" group-title="Local Channel", 910. NET. HD
-rtp://@239.1.1.158:8922
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308753117.png" group-title="Local Channel", 911. TransTV HD
-rtp://@239.1.1.194:9138
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308820607.png" group-title="Local Channel", 912. Trans7 HD
-rtp://@239.1.1.222:9306
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306062652.png" group-title="Local Channel", 913. CNN HD
-rtp://@239.1.1.180:9054
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308119591.png" group-title="Local Channel", 914. SCTV HD
-rtp://@239.1.2.58:8324
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311661866.png" group-title="Local Channel", 915. MetroTV HD
-rtp://@239.1.2.2:7986
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1636640777219.jpg" group-title="Local Channel", 916. IndonesianaTV HD
-rtp://@239.1.1.176:9197
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1615866548886.jpg" group-title="Local Channel", 917. TV Jawa HD
-rtp://@239.1.2.212:9208
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598890134595.jpg" group-title="Local Channel", 983. CNBC HD
-rtp://@239.1.2.94:9448
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304301060.png"  group-title="Sport", 701 Bein Sports 1
 rtp://@239.1.1.217:9204
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304336171.png"  group-title="Sport", 702 Bein Sports 3
-rtp://@239.1.1.221:9300
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581310270878.png" group-title="Movie", 601 HBO
-rtp://@239.1.1.95:8544
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632759335686.jpg" group-title="Movie", 606 HITS Movies
-rtp://@239.1.1.125:8724
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581308611475.png" group-title="Movie", 610 Thrill
-rtp://@239.1.1.83:8472
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581304863747.png" group-title="Movie", 611 Celestial Movies
-rtp://@239.1.1.97:8556
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758703641.jpg" group-title="Movie", 612 My Cinema
 rtp://@239.1.1.161:8940
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581309353747.png" group-title="Movie", 613 TvN Movies
@@ -110,12 +78,6 @@ rtp://@239.1.1.226:9332
 rtp://@239.1.1.71:8400
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581311132895.png" group-title="Movie", 620 IMC
 rtp://@239.1.2.20:8094
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1592402108802.jpg" group-title="Movie", 622 Star Chinese Movies
-rtp://@239.1.1.131:8760
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1632758637971.jpg" group-title="Movie", 624 My Cinema Asia
-rtp://@239.1.1.237:9396
-#EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1598860128546.jpg" group-title="Movie", 945 One
-rtp://@239.1.2.249:9378
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581306177874.png" group-title="Kids", 303 Davinci Kids
 rtp://@239.1.1.99:8568
 #EXTINF:-1 tvg-logo="http://10.6.32.153:8080/iptvepg/images/markurl/mark_1581314088692.png" group-title="Kids", 304 Nick
